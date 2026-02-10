@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aakritiarora1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c
+- 🌱 I know c,c++,java,pythin,html,css,js ;)
 - 💞️ I’m looking to collaborate with people to build experience and gain knowledge
 - 📫 Reach me via my mail address aakritiarora1110@gmail.com
 - 😄 Pronouns: she
