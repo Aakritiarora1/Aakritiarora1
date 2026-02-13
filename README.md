@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I know c,c++,java,pythin,html,css,js ;)
 - 💞️ I’m looking to collaborate with people to build experience and gain knowledge
-- 📫 Reach me via my mail address aakritiarora1110@gmail.com
+- 📫 Reach me via my mail address aroraaakriti1110@gmail.com / aakritiarora1110@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: always curious
 
